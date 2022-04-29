@@ -66,6 +66,5 @@ public class Main {
             j = temp + j;
         }
 
-
     }
 }
